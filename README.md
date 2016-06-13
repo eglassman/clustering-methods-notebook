@@ -1,3 +1,3 @@
-# My Awesome Book
+# Clustering
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+I am interested in automated clustering of unlabeled data. In order to better understand the available methods, I'm compiling this open book of notes.
