@@ -1,3 +1,5 @@
-# First Chapter
+# Clustering 
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+* DBSCAN
+  * Weaknesses include finding meaningful clusters in data of varying density
+* OPTICS, a potential improvement on DBSCAN. 
