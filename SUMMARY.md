@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Clustering Methods](chapter1.md)
+* [Clustering Methods](clustering_methods.md)
 
